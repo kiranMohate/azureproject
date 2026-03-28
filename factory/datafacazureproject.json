@@ -1,0 +1,9 @@
+{
+	"name": "datafacazureproject",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "85c672fb-bc30-4b86-bac6-6910ab9c9f94",
+		"tenantId": "5bec961f-2573-4285-8044-d6705a85cfb3"
+	}
+}
